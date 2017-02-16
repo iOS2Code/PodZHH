@@ -54,7 +54,7 @@ good hahahahahahahahahaha
   #  profile URL.
   #
 
-  s.author             = { "iOS-朱鸿" => "zhuhong@bbdtek.com" }
+  s.author             = { "iOS-朱鸿" => "771722918@qq.com" }
   # Or just: s.author    = "iOS-朱鸿"
   # s.authors            = { "iOS-朱鸿" => "zhuhong@bbdtek.com" }
   # s.social_media_url   = "http://twitter.com/iOS-朱鸿"
