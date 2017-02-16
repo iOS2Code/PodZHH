@@ -17,7 +17,7 @@
 升级到1.2.0之后就没有问题了.
 
 
-** 以下操作均在终端执行 **
+**以下操作均在终端执行**
 
 - pod lib lint --allow-warnings. 用于验证PodZHH.podspec的正确性
 - pod trunk register 771722918@qq.com PodZHH.podspec . 用于注册PodZHH.podspec.注册成功会给发邮件,点击链接即可.
