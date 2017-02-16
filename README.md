@@ -13,6 +13,7 @@
 #####  第二步,开始生产库的过程
 在这一步,我遇到的坑.CocoaPods的版本是1.1.1.导致一直不能成功,总是提示如下错误:
 ![AbortTrap](http://upload-images.jianshu.io/upload_images/1198135-5f4b2a802de0baef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 升级到1.2.0之后就没有问题了.
 
 
