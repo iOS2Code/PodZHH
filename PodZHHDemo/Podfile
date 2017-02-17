@@ -1,8 +1,10 @@
 platform :ios, "8.0"
 
 target 'PodZHHDemo' do
-    
+    # 公开库
     pod 'PodZHH'
+    
+    # 私有库 (pod的时候需要账号与密码)
     pod 'PodZHHPrivate', :git=>'https://git.oschina.net/CoderHG/PodZHHPrivate'
 
 end
