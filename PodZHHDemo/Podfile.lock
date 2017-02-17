@@ -1,0 +1,24 @@
+PODS:
+  - PodZHH (1.0.0)
+  - PodZHHPrivate (1.0.0)
+
+DEPENDENCIES:
+  - PodZHH
+  - PodZHHPrivate (from `https://git.oschina.net/CoderHG/PodZHHPrivate`)
+
+EXTERNAL SOURCES:
+  PodZHHPrivate:
+    :git: https://git.oschina.net/CoderHG/PodZHHPrivate
+
+CHECKOUT OPTIONS:
+  PodZHHPrivate:
+    :commit: c84a51f4fb42769c4a0590c5a0e247b3fa52ac94
+    :git: https://git.oschina.net/CoderHG/PodZHHPrivate
+
+SPEC CHECKSUMS:
+  PodZHH: 1f651a9e2c4a059729e262751c0e5e925784bf67
+  PodZHHPrivate: 7009e1f0bf9a24414e6bb3a7b837c115da815ba6
+
+PODFILE CHECKSUM: 9d3875989da26ae3a33a141f67f14e9f4e19df63
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,8 @@
+platform :ios, "8.0"
+
+target 'PodZHHDemo' do
+    
+    pod 'PodZHH'
+    pod 'PodZHHPrivate', :git=>'https://git.oschina.net/CoderHG/PodZHHPrivate'
+
+end
